@@ -9,8 +9,17 @@
 
 <!-- GIF Header -->
 <p align="center">
-  <img src="headerv4.gif" alt="Saurabh Chavan GitHub Banner" />
+  <img src="headerv5.gif" alt="Saurabh Chavan GitHub Banner" />
 </p>
+
+
+### Hi, I'm **Saurabh Chavan**  
+I'm a graduate student in **Data Analytics Engineering** at **Northeastern University**, passionate about **data engineering and data analytics**.  
+
+I work on **building scalable data solutions, optimizing workflows, and designing efficient ETL pipelines**.  
+
+**Explore my repositories** to see projects on **Data Engineering, Machine Learning, BI dashboards, and Cloud-based ETL pipelines**.  
+
 
 ###  Featured Projects  
 
