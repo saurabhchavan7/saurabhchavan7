@@ -9,7 +9,7 @@
 
 <!-- GIF Header -->
 <p align="center">
-  <img src="headerv5.gif" alt="Saurabh Chavan GitHub Banner" />
+  <img src="headerv6.gif" alt="Saurabh Chavan GitHub Banner" />
 </p>
 
 
@@ -19,6 +19,11 @@ I'm a graduate student in **Data Analytics Engineering** at **Northeastern Unive
 I work on **building scalable data solutions, optimizing workflows, and designing efficient ETL pipelines**.  
 
 **Explore my repositories** to see projects on **Data Engineering, Machine Learning, BI dashboards, and Cloud-based ETL pipelines**.  
+
+#####  Currently Working On  
+- **Project:** [Data Warehousing and ETL Implementation for Policy Lapsation](https://github.com/saurabhchavan7/Data-Warehousing-and-ETL-Implementation-for-Policy-Lapsation-in-Life-Insurance-Industry)  
+#####  Currently Learning  
+- **Certification:** Preparing for the **AWS Certified Cloud Practitioner (CLF-C02) Exam**  
 
 
 ###  Featured Projects  
