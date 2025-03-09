@@ -1,26 +1,94 @@
-<h1 align="center">Hi , I'm Saurabh Chavan</h1>
-<h3 align="center">A passionate Data Engineer & Data Analyst from India, currently based in Boston, MA.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhchavan7&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhchavan7" /> </p>
 
-- 🔭 I’m currently working on [Data Warehousing and ETL Implementation for Policy Lapsation in Life Insurance Industry](https://github.com/saurabhchavan7/Data-Warehousing-and-ETL-Implementation-for-Policy-Lapsation-in-Life-Insurance-Industry)
-
-- 🌱 I’m currently learning **AWS Certified Cloud Practitioner (CLF-C02) Exam**
-
-- 👨‍💻 All of my projects are available at [https://github.com/saurabhchavan7?tab=repositories](https://github.com/saurabhchavan7?tab=repositories)
-
-- 💬 Ask me about **Data Engineering | ETL Pipelines | Power BI & Tableau | Cloud Technologies (Azure & AWS)**
-
-- 📫 How to reach me **chavan.sau@northeastern.edu**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saurabh chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh chavan" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://chavansaurabh.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<!-- GIF Header -->
+<p align="center">
+  <img src="header1.gif" alt="Saurabh Chavan GitHub Banner" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhchavan7&show_icons=true&locale=en&layout=compact" alt="saurabhchavan7" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhchavan7&" alt="saurabhchavan7" /></p>
+## Hi, I'm **Saurabh Chavan**  
+I'm a graduate student in **Data Analytics Engineering** at **Northeastern University**, passionate about **data engineering and data analytics**.  
+
+I love **building scalable data solutions** and **optimizing workflows** for better insights!  
+
+**Explore my repositories** to see projects on **Data Engineering, Machine Learning, BI dashboards, and Cloud-based ETL pipelines.**  
+
+---
+
+## 🚀 Featured Projects  
+
+🔹 [Sales Data ETL & Analytics Pipeline (Azure)](https://github.com/saurabhchavan7/Sales-Data-End-to-End-Data-Engineering-Project-Using-Azure-Services)  
+
+🔹 [Data Warehousing & ETL for Policy Lapsation](https://github.com/saurabhchavan7/Data-Warehousing-and-ETL-Implementation-for-Policy-Lapsation-in-Life-Insurance-Industry)  
+
+🔹 [Vehicle Insurance Claim Management System](https://github.com/saurabhchavan7/Vehicle-Insurance-Claim-Management-System)  
+
+🔹 [Distributed Kafka-Spark Pipeline](https://github.com/saurabhchavan7/Distributed-Kafka-Spark-Pipeline-for-High-Velocity-Data-Streams)  
+
+🔹 [AWS SageMaker Flight Fare Predictor](https://github.com/saurabhchavan7/AWS-SageMaker-FlightFarePredictor)  
+
+🔹 [Automated File Processing Pipeline (AWS & Snowflake)](https://github.com/saurabhchavan7/Automated-File-Processing-Pipeline-Using-AWS-and-Snowflake)  
+
+---
+
+## 🛠 Skills & Tools  
+
+### **📌 Programming Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+
+### **📌 Cloud & Data Warehousing**  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)  
+
+### **📌 ETL, ELT & Data Pipelines**  
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)  
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)  
+![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)  
+![DBT](https://img.shields.io/badge/-DBT-FF694B?style=flat-square&logo=dbt&logoColor=white)  
+
+### **📌 Databases**  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)  
+
+### **📌 Tools & BI**  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
+
+### **📌 Machine Learning & Analytics**  
+![ML](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)  
+![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-FF6F00?style=flat-square&logo=python&logoColor=white)  
+![Time Series](https://img.shields.io/badge/-Time%20Series%20Forecasting-FF6F00?style=flat-square&logo=python&logoColor=white)  
+
+---
+
+## 🔗 Connect with Me  
+
+📧 **Email:** [chavan.sau@northeastern.edu](mailto:chavan.sau@northeastern.edu)  
+🔗 **LinkedIn:** [linkedin.com/in/saurabhchavan](https://www.linkedin.com/in/saurabhchavan)  
+📂 **GitHub:** [github.com/saurabhchavan7](https://github.com/saurabhchavan7)  
+
+---
+
+### **🔹 Suggested Header Text for Your Image:**  
+**"Data Engineering | ETL | Data Warehousing | BI & Analytics | Machine Learning"**  
+
+This keeps it concise and covers your key areas of expertise.  
+
+Let me know if you need any further refinements! 🚀😊
