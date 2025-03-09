@@ -9,7 +9,7 @@
 
 <!-- GIF Header -->
 <p align="center">
-  <img src="headerv7.gif" alt="Saurabh Chavan GitHub Banner" />
+  <img src="header7.gif" alt="Saurabh Chavan GitHub Banner" />
 </p>
 
 
