@@ -72,15 +72,14 @@ I work on **building scalable data solutions, optimizing workflows, and designin
 
 ### GitHub Stats  
 
+### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saurabhchavan7&show_icons=true&theme=light" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhchavan7&theme=light" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhchavan7&layout=compact&theme=light" alt="Top Languages" />
 </p>
-
 ---
 
 ### Connect with Me  
