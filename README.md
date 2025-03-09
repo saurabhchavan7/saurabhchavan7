@@ -9,7 +9,7 @@
 
 <!-- GIF Header -->
 <p align="center">
-  <img src="headerv3.gif" alt="Saurabh Chavan GitHub Banner" />
+  <img src="headerv4.gif" alt="Saurabh Chavan GitHub Banner" />
 </p>
 
 ###  Featured Projects  
