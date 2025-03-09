@@ -73,7 +73,7 @@
 
 📧 **Email:** [chavan.sau@northeastern.edu](mailto:chavan.sau@northeastern.edu)  
 🔗 **LinkedIn:** [linkedin.com/in/saurabhchavan](https://www.linkedin.com/in/saurabhchavan)  
-📂 **GitHub:** [github.com/saurabhchavan7](https://github.com/saurabhchavan7)  
+
 
 ---
 
