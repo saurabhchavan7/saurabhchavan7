@@ -23,10 +23,10 @@
 </p>
 
  **I'm passionate about:**  
-✔️ **Working with data** to uncover insights and optimize business solutions  
-✔️ **Developing ETL workflows** and cloud-based data solutions  
-✔️ **Building dashboards & reports** to support data-driven decision-making  
-✔️ **Exploring machine learning** for predictive analytics  
+- **Working with data** to uncover insights and optimize business solutions  
+- **Developing ETL workflows** and cloud-based data solutions  
+- **Building dashboards & reports** to support data-driven decision-making  
+- **Exploring machine learning** for predictive analytics  
 
  **Check out my repositories** to see projects on **Data Engineering, Data analysis, Business Intelligence, and Machine Learning**.  
 
@@ -54,7 +54,8 @@
 
 ---
 
-### Skills & Tools  
+###  Skills & Tools  
+
 #### **Programming Languages**  
 <p align="left"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
@@ -66,25 +67,48 @@
 #### **Cloud & Data Warehousing**  
 <p align="left"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" /></p>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" /></p>
 
 #### **ETL, ELT & Data Pipelines**  
 <p align="left"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/PySpark-3776AB?style=flat-square&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Spark%20Streaming-FCC624?style=flat-square&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
-<img src="https://img.shields.io/badge/DBT-FF694B?style=flat-square&logo=dbt&logoColor=white" /></p>
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/DBT-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau%20Prep%20Builder-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20Automate-0089D6?style=flat-square&logo=microsoft-power-automate&logoColor=white" /></p>
 
 #### **Databases**  
 <p align="left"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /></p>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" /></p>
 
-#### **Tools & BI**  
+#### **BI & Visualization Tools**  
 <p align="left"><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></p>
+<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/IBM%20Cognos-DB1F29?style=flat-square&logo=ibm&logoColor=white"/></p>
+
+#### **Tools & DevOps**  
+<p align="left"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></p>
+
+#### **Machine Learning & AI**  
+<p align="left">
+<img src="https://img.shields.io/badge/Supervised%20Learning-0078D4?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unsupervised%20Learning-008000?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neural%20Networks-FF4B00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Time%20Series%20Forecasting-800080?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-DAA520?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
 
 ### GitHub Stats  
 <p align="center">
