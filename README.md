@@ -13,18 +13,35 @@
 </p>
 
 
-### Hi, I'm **Saurabh Chavan**  
-I'm a graduate student in **Data Analytics Engineering** at **Northeastern University**, passionate about **data engineering and data analytics**.  
+## Hi, I'm **Saurabh Chavan**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Engineering-%230077B5?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-%23F89820?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-%230A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Technologies-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-%23E34F26?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+</p>
 
-I work on **building scalable data solutions, optimizing workflows, and designing efficient ETL pipelines**.  
+ **I'm passionate about:**  
+✔️ **Working with data** to uncover insights and optimize business solutions  
+✔️ **Developing ETL workflows** and cloud-based data solutions  
+✔️ **Building dashboards & reports** to support data-driven decision-making  
+✔️ **Exploring machine learning** for predictive analytics  
 
-**Explore my repositories** to see projects on **Data Engineering, Machine Learning, BI dashboards, and Cloud-based ETL pipelines**.  
+ **Check out my repositories** to see projects on **Data Engineering, Data analysis, Business Intelligence, and Machine Learning**.  
 
-#####  Currently Working On  
+---
+
+##  **Currently Working On**  
 - **Project:** [Data Warehousing and ETL Implementation for Policy Lapsation](https://github.com/saurabhchavan7/Data-Warehousing-and-ETL-Implementation-for-Policy-Lapsation-in-Life-Insurance-Industry)  
-#####  Currently Learning  
-- **Certification:** Preparing for the **AWS Certified Cloud Practitioner (CLF-C02) Exam**  
+  - Building a **data pipeline** for policy lapsation analysis
+    
+---
 
+##  **Currently Learning**  
+-  **Certification:** Preparing for **AWS Certified Cloud Practitioner (CLF-C02)**  
+
+---
 
 ###  Featured Projects  
 
@@ -69,10 +86,7 @@ I work on **building scalable data solutions, optimizing workflows, and designin
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></p>
 
-
 ### GitHub Stats  
-
-### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saurabhchavan7&show_icons=true&theme=light" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhchavan7&theme=light" alt="GitHub Streak" />
@@ -80,7 +94,7 @@ I work on **building scalable data solutions, optimizing workflows, and designin
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhchavan7&layout=compact&theme=light" alt="Top Languages" />
 </p>
----
+
 
 ### Connect with Me  
 
