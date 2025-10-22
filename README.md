@@ -12,34 +12,23 @@
 <!---  <img src="header7.gif" alt="Saurabh Chavan GitHub Banner" /> -->
 </p>
 
+## Hi, I'm **Saurabh Chavan**
 
-## Hi, I'm **Saurabh Chavan**  
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Engineering-%230077B5?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Engineering%20&%20Analytics-%230077B5?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Science-%230A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-%23F89820?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML%20&%20AI-%23F89820?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud%20Technologies-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL%20Pipelines-%23E34F26?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </p>
 
- **I'm passionate about:**  
-- **Working with data** to uncover insights and optimize business solutions  
-- **Developing ETL workflows** and cloud-based data solutions  
-- **Building dashboards & reports** to support data-driven decision-making  
-- **Exploring machine learning** for predictive analytics  
+**I have studied and worked across the entire data ecosystem** from engineering and analytics to machine learning and AI.  
+I’m passionate about:  
+- **Designing and implementing scalable data pipelines** and cloud-based architectures  
+- **Transforming data into actionable insights** for business growth  
+- **Building and deploying machine learning models** for predictive and intelligent solutions  
+- **Applying AI techniques** to solve complex, real-world challenges  
 
- **Check out my repositories** to see projects on **Data Engineering, Data analysis, Business Intelligence, and Machine Learning**.  
-
----
-
-##  **Currently Working On**  
-- **Project:** [Data Warehousing and ETL Implementation for Policy Lapsation](https://github.com/saurabhchavan7/Data-Warehousing-and-ETL-Implementation-for-Policy-Lapsation-in-Life-Insurance-Industry)  
-  - Building a **data pipeline** for policy lapsation analysis
-    
----
-
-##  **Currently Learning**  
--  **Certification:** Preparing for **AWS Certified Cloud Practitioner (CLF-C02)**  
+I bring strong foundations and hands-on experience across these domains, and I’m confident in delivering impactful solutions for any data-driven role.
 
 ---
 
