@@ -9,15 +9,15 @@
 
 <!-- GIF Header -->
 <p align="center">
-  <img src="header7.gif" alt="Saurabh Chavan GitHub Banner" />
+<!---  <img src="header7.gif" alt="Saurabh Chavan GitHub Banner" /> -->
 </p>
 
 
 ## Hi, I'm **Saurabh Chavan**  
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Engineering-%230077B5?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-%23F89820?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Science-%230A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-%23F89820?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud%20Technologies-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/ETL%20Pipelines-%23E34F26?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </p>
