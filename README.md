@@ -34,13 +34,14 @@ I bring strong foundations and hands-on experience across these domains, and I�
 
 ###  Featured Projects  
 
-🔹 [CreatorInsight AI/ML Platform](https://github.com/saurabhchavan7/CreatorInsight-AI-ML-Platform)
+
+🔹 [CreatorInsight AI/ML Platform](https://github.com/saurabhchavan7/CreatorInsight-AI-ML-Platform) 
 🔹 [Data Warehousing & ETL for Policy Lapsation](https://github.com/saurabhchavan7/Data-Warehousing-and-ETL-Implementation-for-Policy-Lapsation-in-Life-Insurance-Industry) 
-🔹 [AWS SageMaker Flight Fare Predictor](https://github.com/saurabhchavan7/AWS-SageMaker-FlightFarePredictor)
-🔹 [Sales Data ETL & Analytics Pipeline (Azure)](https://github.com/saurabhchavan7/Sales-Data-End-to-End-Data-Engineering-Project-Using-Azure-Services)
-🔹 [Vehicle Insurance Claim Management System](https://github.com/saurabhchavan7/Vehicle-Insurance-Claim-Management-System)
-🔹 [Distributed Kafka-Spark Pipeline](https://github.com/saurabhchavan7/Distributed-Kafka-Spark-Pipeline-for-High-Velocity-Data-Streams)   
-🔹 [Automated File Processing Pipeline (AWS & Snowflake)](https://github.com/saurabhchavan7/Automated-File-Processing-Pipeline-Using-AWS-and-Snowflake)  
+🔹 [AWS SageMaker Flight Fare Predictor](https://github.com/saurabhchavan7/AWS-SageMaker-FlightFarePredictor) 
+🔹 [Sales Data ETL & Analytics Pipeline (Azure)](https://github.com/saurabhchavan7/Sales-Data-End-to-End-Data-Engineering-Project-Using-Azure-Services) 
+🔹 [Vehicle Insurance Claim Management System](https://github.com/saurabhchavan7/Vehicle-Insurance-Claim-Management-System) 
+🔹 [Distributed Kafka-Spark Pipeline](https://github.com/saurabhchavan7/Distributed-Kafka-Spark-Pipeline-for-High-Velocity-Data-Streams) 
+🔹 [Automated File Processing Pipeline (AWS & Snowflake)](https://github.com/saurabhchavan7/Automated-File-Processing-Pipeline-Using-AWS-and-Snowflake) 
 
 ---
 
