@@ -10,7 +10,7 @@
 
 ---
 
-## Hi, I'm **Saurabh Chavan**
+## Hi, I'm Saurabh Chavan
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge" />
@@ -18,33 +18,75 @@
   <img src="https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge" />
 </p>
 
-I am a **data science professional** with hands-on industry experience working on **end-to-end machine learning and AI projects**, from understanding data and building models to deploying them and integrating AI into existing systems.
+I am a data science professional with hands-on experience building end-to-end machine learning and AI systems, from data analysis and modeling to deployment and integration into real-world workflows.
 
-My experience spans **machine learning, deep learning, NLP, generative AI, and large-scale data**, with a strong focus on building practical, deployable solutions and improving workflows through automation and AI-driven components.
+My work spans machine learning, deep learning, NLP, generative AI, and data engineering, with a focus on practical, production-oriented solutions.
 
 ---
 
-##  Featured Project
+## What I Build
+
+- End-to-end machine learning pipelines
+- LLM-based applications and retrieval systems
+- Data engineering and ETL workflows
+- Production APIs and deployment-ready systems
+- Applied MLOps practices
+
+---
+
+## Featured Project
 
 ### CreatorInsight – AI / ML / GenAI Platform  
-🔗 https://github.com/saurabhchavan7/CreatorInsight-AI-ML-Platform
-
-A platform focused on applying **machine learning, NLP, and generative AI** to analyze creator and audience data and generate actionable insights.
+A full-stack AI platform for transforming large volumes of YouTube comments into structured, actionable insights.  
+Repository: https://github.com/saurabhchavan7/CreatorInsight-AI-ML-Platform
 
 ---
 
-## Skills & Expertise
+## Selected Projects
 
-### 🟦 Languages
+### End-to-End and Applied Projects
+
+| Project | Description | Repository |
+|------|------------|-----------|
+| CreatorInsight AI Platform | ML, NLP, and GenAI system for large-scale comment analysis | https://github.com/saurabhchavan7/CreatorInsight-AI-ML-Platform |
+| AWS SageMaker Flight Fare Predictor | End-to-end ML project deployed using AWS SageMaker | https://github.com/saurabhchavan7/AWS-SageMaker-FlightFarePredictor |
+| Term Deposit Subscription Prediction | ML model to predict customer subscription likelihood | https://github.com/saurabhchavan7/term-deposit-subscription-prediction |
+
+---
+
+### Generative AI and LangChain (Concepts and Systems)
+
+| Repository | Focus | Link |
+|---------|------|------|
+| LangChain Retrieval Systems | RAG pipelines, document ingestion, and retrieval workflows | https://github.com/saurabhchavan7/langchain-retrieval-systems |
+| LangChain Core Concepts | Models, prompts, chains, runnables, and structured outputs | https://github.com/saurabhchavan7/langchain-core-concepts |
+
+---
+
+### Machine Learning and Deep Learning Foundations
+
+| Repository | Focus | Link |
+|---------|------|------|
+| Deep Learning Projects | Practical deep learning implementations | https://github.com/saurabhchavan7/Deep-Learning-Projects |
+| Deep Learning Algorithms | Core deep learning algorithm understanding | https://github.com/saurabhchavan7/Deep-Learning-Algorithms |
+| ML Algorithms Implementation | Classical ML algorithms from scratch | https://github.com/saurabhchavan7/ML-Algorithms-Implementation |
+| Scikit-Learn for Machine Learning | Pipelines, estimators, and transformers | https://github.com/saurabhchavan7/Scikit-Learn-for-Machine-Learning |
+| Object Oriented Programming (OOP) | OOP principles implemented in Python | https://github.com/saurabhchavan7/Object-oriented-programming-OOP |
+
+---
+
+## Skills and Expertise
+
+### Languages
 | Category | Technologies |
 |--------|-------------|
 | Programming | Python, R, C, C++ |
-| Data & Query | SQL, PySpark |
-| Web / Scripting | HTML, VBA |
+| Data and Query | SQL, PySpark |
+| Scripting | HTML, VBA |
 
 ---
 
-### 🟦 Databases & Cloud
+### Databases and Cloud
 | Category | Technologies |
 |--------|-------------|
 | Databases | MySQL, Snowflake |
@@ -52,44 +94,44 @@ A platform focused on applying **machine learning, NLP, and generative AI** to a
 
 ---
 
-### 🟦 Tools & Platforms
+### Tools and Platforms
 | Area | Tools |
 |-----|------|
 | Data Engineering | Databricks, Azure Data Factory |
 | DevOps | Docker, Kubernetes, Jenkins, Azure DevOps |
 | Version Control | Git, GitHub |
-| BI & Visualization | Tableau, R Shiny |
+| Visualization | Tableau, R Shiny |
 | Project Management | JIRA |
 | Analytics | Advanced Excel |
 
 ---
 
-### 🟦 Machine Learning & Deep Learning
+### Machine Learning and AI
 | Area | Technologies |
 |-----|-------------|
-| Core Libraries | Pandas, NumPy, Scikit-learn |
+| Core ML | Pandas, NumPy, Scikit-learn |
 | Deep Learning | TensorFlow, PyTorch |
-| Model Serving | Flask, FastAPI |
-| Experimentation | MLflow |
+| APIs | Flask, FastAPI |
+| Experiment Tracking | MLflow |
 | Visualization | Seaborn, Streamlit |
 
 ---
 
-### 🟦 Generative AI
+### Generative AI
 | Area | Technologies |
 |-----|-------------|
 | Frameworks | LangChain, LlamaIndex |
-| LLM Providers | OpenAI |
+| LLMs | OpenAI |
 | NLP | Hugging Face, Transformers |
 | Architectures | RAG, AI Agents |
 | Vector Stores | Chroma, Pinecone, FAISS |
 
 ---
 
-### 🟦 MLOps & Deployment
+### MLOps and Deployment
 | Area | Capabilities |
 |-----|--------------|
-| Pipelines | CI/CD Pipelines |
+| Pipelines | CI/CD |
 | Data | ETL Workflows |
 | Deployment | Model Deployment |
 | Monitoring | Model Monitoring |
@@ -97,33 +139,21 @@ A platform focused on applying **machine learning, NLP, and generative AI** to a
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhchavan7&theme=default"
-    alt="GitHub Profile Summary"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhchavan7&theme=default" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabhchavan7&theme=default"
-    alt="Repos per Language"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saurabhchavan7&theme=default"
-    alt="Most Commit Language"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabhchavan7&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saurabhchavan7&theme=default" />
 </p>
 
-
 ---
 
-## Connect with Me
+## Connect
 
-📧 **Email:** chavan.sau@northeastern.edu  
-🔗 **LinkedIn:** https://www.linkedin.com/in/saurabhchavan  
-🌐 **Portfolio:** https://chavansaurabh.com/
-
----
+Email: chavan.sau@northeastern.edu  
+LinkedIn: https://www.linkedin.com/in/saurabhchavan  
+Portfolio: https://chavansaurabh.com/
