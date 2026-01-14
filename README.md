@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge" />
 </p>
 
-I am a data science professional with hands-on experience building end-to-end machine learning and AI systems, from data analysis and modeling to deployment and integration into real-world workflows.
+I am a data science professional with hands-on experience building end-to-end machine learning and AI systems, from experimentation and modeling to deployment and integration into real-world workflows.
 
 My work spans machine learning, deep learning, NLP, generative AI, and data engineering, with a focus on practical, production-oriented solutions.
 
@@ -28,9 +28,9 @@ My work spans machine learning, deep learning, NLP, generative AI, and data engi
 
 - End-to-end machine learning pipelines
 - LLM-based applications and retrieval systems
-- Data engineering and ETL workflows
 - Production APIs and deployment-ready systems
 - Applied MLOps practices
+- Data engineering and ETL workflows
 
 ---
 
@@ -51,6 +51,7 @@ Repository: https://github.com/saurabhchavan7/CreatorInsight-AI-ML-Platform
 | CreatorInsight AI Platform | ML, NLP, and GenAI system for large-scale comment analysis | https://github.com/saurabhchavan7/CreatorInsight-AI-ML-Platform |
 | AWS SageMaker Flight Fare Predictor | End-to-end ML project deployed using AWS SageMaker | https://github.com/saurabhchavan7/AWS-SageMaker-FlightFarePredictor |
 | Term Deposit Subscription Prediction | ML model to predict customer subscription likelihood | https://github.com/saurabhchavan7/term-deposit-subscription-prediction |
+| Patients Condition Classification and Drugs Recommendation | ML model to predict customer subscription likelihood | https://github.com/saurabhchavan7/Patients-Condition-Classification-and-Drugs-Recommendation |
 
 ---
 
