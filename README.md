@@ -72,7 +72,7 @@ Repository: https://github.com/saurabhchavan7/CreatorInsight-AI-ML-Platform
 | Deep Learning Algorithms | Core deep learning algorithm understanding | https://github.com/saurabhchavan7/Deep-Learning-Algorithms |
 | ML Algorithms Implementation | Classical ML algorithms from scratch | https://github.com/saurabhchavan7/ML-Algorithms-Implementation |
 | Scikit-Learn for Machine Learning | Pipelines, estimators, and transformers | https://github.com/saurabhchavan7/Scikit-Learn-for-Machine-Learning |
-| Object Oriented Programming (OOP) | OOP principles implemented in Python | https://github.com/saurabhchavan7/Object-oriented-programming-OOP |
+| Object Oriented Programming (OOP) | OOP principles implemented in Python | https://github.com/saurabhchavan7/Object-oriented-programming-OOP- |
 
 ---
 
