@@ -203,7 +203,7 @@ An intelligent conversational system leveraging RAG architecture for YouTube con
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhchavan7&theme=github-compact&hide_border=false" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhchavan7&theme=github-compact&hide_border=false&custom_title=Contribution%20Graph" alt="Activity Graph" />
 </p>
 
 ---
