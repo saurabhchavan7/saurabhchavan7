@@ -65,6 +65,7 @@ An intelligent conversational system leveraging RAG architecture for YouTube con
 | CreatorInsight AI Platform | ML, NLP, and GenAI system for large-scale comment analysis | https://github.com/saurabhchavan7/CreatorInsight-AI-ML-Platform |
 | Conversational RAG Platform | RAG-based conversational system for YouTube content | https://github.com/saurabhchavan7/conversational-rag-platform-youtube |
 | AWS SageMaker Flight Fare Predictor | End-to-end ML project deployed using AWS SageMaker | https://github.com/saurabhchavan7/AWS-SageMaker-FlightFarePredictor |
+| Term Deposit Subscription Prediction | ML model to predict customer subscription likelihood | https://github.com/saurabhchavan7/term-deposit-subscription-prediction |
 
 ---
 
@@ -182,7 +183,7 @@ An intelligent conversational system leveraging RAG architecture for YouTube con
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhchavan7&theme=default&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhchavan7" alt="GitHub Streak" />
 </p>
 
 <p align="center">
