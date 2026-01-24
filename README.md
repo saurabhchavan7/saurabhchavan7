@@ -212,7 +212,7 @@ An intelligent conversational system leveraging RAG architecture for YouTube con
 ## 📫 Connect
 
 **Email:** chavan.sau@northeastern.edu  
-**LinkedIn:** https://www.linkedin.com/in/saurabhchavan  
+**LinkedIn:** https://www.linkedin.com/in/contactsaurabhchavan/  
 **Portfolio:** https://chavansaurabh.com/
 
 ---
