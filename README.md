@@ -183,11 +183,7 @@ An intelligent conversational system leveraging RAG architecture for YouTube con
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhchavan7" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhchavan7&theme=default" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=saurabhchavan7&theme=default" alt="GitHub Streak" />
 </p>
 
 <p align="center">
