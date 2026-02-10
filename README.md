@@ -50,6 +50,10 @@ My work spans machine learning, deep learning, NLP, generative AI, and data engi
 A full-stack AI platform for transforming large volumes of YouTube comments into structured, actionable insights.  
 **Repository:** https://github.com/saurabhchavan7/CreatorInsight-AI-ML-Platform
 
+### Mnemos - AI Powered Multi-Agent Second Brain with Proactive Intelligence
+An AI-powered desktop application that captures, understands, and acts on digital information using a Gemini 3 multi-agent architecture with proactive intelligence, semantic memory, and Google service integrations. Built for the Gemini Hackathon Google DeepMind 2026.           
+**Repository:** https://github.com/SapnaSChavan/gemini-hackathon-2026
+
 ### Conversational RAG Platform – YouTube  
 An intelligent conversational system leveraging RAG architecture for YouTube content analysis and interaction.  
 **Repository:** https://github.com/saurabhchavan7/conversational-rag-platform-youtube
