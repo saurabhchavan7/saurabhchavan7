@@ -62,7 +62,8 @@ An intelligent conversational system leveraging RAG architecture for YouTube con
 
 | Project | Description | Repository |
 |------|------------|-----------|
-| CreatorInsight AI Platform | ML, NLP, and GenAI system for large-scale comment analysis | https://github.com/saurabhchavan7/CreatorInsight-AI-ML-Platform |
+| CreatorInsight AI/ML Platform | ML, NLP, and GenAI system for large-scale comment analysis | https://github.com/saurabhchavan7/CreatorInsight-AI-ML-Platform |
+| Mnemos | AI-Powered Multi-Agent Second Brain with Proactive Intelligence | https://github.com/saurabhchavan7/gemini-hackathon-2026 |
 | Conversational RAG Platform | RAG-based conversational system for YouTube content | https://github.com/saurabhchavan7/conversational-rag-platform-youtube |
 | AWS SageMaker Flight Fare Predictor | End-to-end ML project deployed using AWS SageMaker | https://github.com/saurabhchavan7/AWS-SageMaker-FlightFarePredictor |
 | Term Deposit Subscription Prediction | ML model to predict customer subscription likelihood | https://github.com/saurabhchavan7/term-deposit-subscription-prediction |
