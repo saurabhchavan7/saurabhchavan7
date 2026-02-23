@@ -58,6 +58,13 @@ An AI-powered desktop application that captures, understands, and acts on digita
 An intelligent conversational system leveraging RAG architecture for YouTube content analysis and interaction.  
 **Repository:** https://github.com/saurabhchavan7/conversational-rag-platform-youtube
 
+### CECL Credit Risk Modeling Framework
+End-to-end CECL-compliant credit risk framework on 3.8M Fannie Mae mortgage loans ($694B portfolio). PD/LGD/EAD modeling, Federal Reserve 2025 stress testing, Monte Carlo simulation (10,000 scenarios), and real-time loan scoring dashboard.
+
+**Live Dashboard:** https://cecl-credit-loss-modeling.streamlit.app
+
+**Repository:** https://github.com/saurabhchavan7/cecl-credit-loss-modeling
+
 ---
 
 ## Selected Projects
@@ -69,6 +76,7 @@ An intelligent conversational system leveraging RAG architecture for YouTube con
 | CreatorInsight AI/ML Platform | ML, NLP, and GenAI system for large-scale comment analysis | https://github.com/saurabhchavan7/CreatorInsight-AI-ML-Platform |
 | Mnemos | AI-Powered Multi-Agent Second Brain with Proactive Intelligence | https://github.com/saurabhchavan7/gemini-hackathon-2026 |
 | Conversational RAG Platform | RAG-based conversational system for YouTube content | https://github.com/saurabhchavan7/conversational-rag-platform-youtube |
+| CECL Credit Risk Modeling Framework | CECL lifetime loss estimation, PD/LGD, stress testing, Monte Carlo, loan scoring | https://github.com/saurabhchavan7/cecl-credit-loss-modeling |
 | AWS SageMaker Flight Fare Predictor | End-to-end ML project deployed using AWS SageMaker | https://github.com/saurabhchavan7/AWS-SageMaker-FlightFarePredictor |
 | Term Deposit Subscription Prediction | ML model to predict customer subscription likelihood | https://github.com/saurabhchavan7/term-deposit-subscription-prediction |
 
