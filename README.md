@@ -88,6 +88,8 @@ End-to-end CECL-compliant credit risk framework on 3.8M Fannie Mae mortgage loan
 |---------|------|------|
 | LangChain Retrieval Systems | RAG pipelines, document ingestion, and retrieval workflows | https://github.com/saurabhchavan7/langchain-retrieval-systems |
 | LangChain Core Concepts | Models, prompts, chains, runnables, and structured outputs | https://github.com/saurabhchavan7/langchain-core-concepts |
+| LangGraph Agentic Workflows | Agentic AI workflow, Graph-based orchestration | https://github.com/saurabhchavan7/langgraph-agentic-workflows |
+
 
 ---
 
